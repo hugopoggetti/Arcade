@@ -1,0 +1,5 @@
+<map id="WindowClosedEvent::dispatch" name="WindowClosedEvent::dispatch">
+<area shape="rect" id="Node000001" title="Used to dispatch en event (this) to the given listener." alt="" coords="5,5,156,44"/>
+<area shape="rect" id="Node000002" href="$classListener.html#abe2dcb37b624ae547d1f518cc2c4d7ac" title=" " alt="" coords="204,12,381,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,22,188,22,188,27,156,27"/>
+</map>

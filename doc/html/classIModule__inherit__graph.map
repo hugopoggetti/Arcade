@@ -1,0 +1,9 @@
+<map id="IModule" name="IModule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,160,30"/>
+<area shape="rect" id="Node000002" href="$classIDisplayModule.html" title=" " alt="" coords="5,78,117,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,43,74,79,70,76,103,40"/>
+<area shape="rect" id="Node000003" href="$classIGameModule.html" title=" " alt="" coords="140,78,243,103"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,40,183,76,179,79,145,43"/>
+<area shape="rect" id="Node000004" href="$classGUI.html" title=" " alt="" coords="169,151,214,175"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="194,118,194,150,189,150,189,118"/>
+</map>

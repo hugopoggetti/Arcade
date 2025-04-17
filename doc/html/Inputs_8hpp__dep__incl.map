@@ -1,0 +1,18 @@
+<map id="src/event/Inputs.hpp" name="src/event/Inputs.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="150,5,289,30"/>
+<area shape="rect" id="Node000002" href="$IGameModule_8hpp.html" title=" " alt="" coords="73,78,243,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,170,79,166,76,197,40"/>
+<area shape="rect" id="Node000005" href="$Events_8hpp.html" title=" " alt="" coords="145,223,288,248"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="248,38,275,65,301,99,310,118,315,138,315,157,308,177,297,193,282,206,250,225,247,220,279,202,293,189,304,174,310,156,310,138,305,120,296,102,271,69,244,42"/>
+<area shape="rect" id="Node000003" href="$GUI_8hpp.html" title=" " alt="" coords="5,223,119,248"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,117,72,224,68,221,140,114"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="144,117,132,146,131,160,135,174,145,189,159,202,189,221,187,225,156,206,141,193,130,176,126,161,127,144,139,115"/>
+<area shape="rect" id="Node000007" href="$Listener_8hpp.html" title=" " alt="" coords="145,151,294,175"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="180,113,211,149,207,152,176,116"/>
+<area shape="rect" id="Node000004" href="$EventManager_8hpp.html" title=" " alt="" coords="44,369,230,393"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,260,133,367,128,369,72,263"/>
+<area shape="rect" id="Node000006" href="$IDisplayModule_8hpp.html" title=" " alt="" coords="119,296,298,321"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="216,264,213,296,207,295,211,263"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="188,334,150,370,146,366,184,330"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="221,191,220,223,214,223,216,191"/>
+</map>

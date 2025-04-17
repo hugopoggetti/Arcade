@@ -1,0 +1,19 @@
+<map id="IEvent" name="IEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,64,154"/>
+<area shape="rect" id="Node000002" href="$classKeyPressedEvent.html" title=" " alt="" coords="139,5,264,30"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="47,114,73,76,90,57,110,41,138,27,140,32,113,45,94,61,77,80,52,117"/>
+<area shape="rect" id="Node000004" href="$classMouseButtonPressedEvent.html" title=" " alt="" coords="112,55,291,79"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="64,118,111,90,144,77,146,82,113,95,66,122"/>
+<area shape="rect" id="Node000006" href="$classMouseMoveEvent.html" title=" " alt="" coords="139,104,264,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="79,132,138,123,139,128,80,138"/>
+<area shape="rect" id="Node000007" href="$classWindowClosedEvent.html" title=" " alt="" coords="130,153,272,178"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="80,145,130,153,129,158,79,151"/>
+<area shape="rect" id="Node000008" href="$classWindowMoveEvent.html" title=" " alt="" coords="135,203,268,227"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="67,161,113,187,147,200,145,205,111,192,64,166"/>
+<area shape="rect" id="Node000009" href="$classWindowResizeEvent.html" title=" " alt="" coords="131,252,272,277"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="52,166,78,203,94,221,113,237,138,249,135,254,110,241,91,225,73,206,48,169"/>
+<area shape="rect" id="Node000003" href="$classKeyReleasedEvent.html" title=" " alt="" coords="366,5,497,30"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,15,366,15,366,20,279,20"/>
+<area shape="rect" id="Node000005" href="$classMouseButtonReleasedEvent.html" title=" " alt="" coords="339,55,524,79"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,64,339,64,339,70,306,70"/>
+</map>

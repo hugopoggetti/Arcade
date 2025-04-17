@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['getassetpath_0',['getAssetPath',['../classSprite.html#adf7022ec03ef227dc009c51bf57b69c1',1,'Sprite']]],
+  ['getauthor_1',['getAuthor',['../classPlugin.html#a8ca7d602eed5af6ce60725242e1b0aed',1,'Plugin']]],
+  ['getbutton_2',['getButton',['../classMouseButtonPressedEvent.html#a69f2477d684ce8eec24a7b0085c1a0a7',1,'MouseButtonPressedEvent']]],
+  ['getcolor_3',['getColor',['../classText.html#af04408414ffb71baa6e765ed2daad57a',1,'Text::getColor()'],['../classRectangle.html#a1a8dc52b16341c32052140af0d66e7f8',1,'Rectangle::getColor()']]],
+  ['getcolorpalette_4',['getColorPalette',['../classIGameModule.html#a2b36cbe14d38f3573f8cc2326c0fc900',1,'IGameModule']]],
+  ['getdegrees_5',['getDegrees',['../classRotation.html#a0a7ba71cc6f70650606dacbdaba481bf',1,'Rotation']]],
+  ['getfontpath_6',['getFontPath',['../classText.html#aedcfa41ac09789585bdfbb197b9d35a2',1,'Text']]],
+  ['getgamelisteners_7',['getGameListeners',['../classIGameModule.html#a639271b523e4687bd495034f58dfa16b',1,'IGameModule']]],
+  ['getgridsize_8',['getGridSize',['../classIGameModule.html#a70eacda62bebd6d93f355af361bd2977',1,'IGameModule']]],
+  ['geticon_9',['getIcon',['../classPlugin.html#ad52c6ec1831660a3ac77bb13ee7d1630',1,'Plugin']]],
+  ['getkey_10',['getKey',['../classKeyPressedEvent.html#abb7eb18f7499dabde1239d7402da1e0b',1,'KeyPressedEvent']]],
+  ['getname_11',['getName',['../classPlugin.html#a13daa4f37c7387127054a8e9a1e948dc',1,'Plugin']]],
+  ['getplugin_12',['getPlugin',['../classIModule.html#a403c0d65842a4d6dffe7dd2451ee6318',1,'IModule']]],
+  ['getposition_13',['getPosition',['../classMouseButtonPressedEvent.html#ae54b99cc3bd840d312add392562f5871',1,'MouseButtonPressedEvent::getPosition()'],['../classMouseMoveEvent.html#a271ae2beb60556650ff893a2d3c356ea',1,'MouseMoveEvent::getPosition()'],['../classWindowMoveEvent.html#a6979e9a102e74cb304a9301a7ed99693',1,'WindowMoveEvent::getPosition()'],['../classTransform.html#ac9a95d461d21af1de1d330a865fd554d',1,'Transform::getPosition()'],['../classTransform.html#ac076f9b05db0cd10ff9d3597d33747bf',1,'Transform::getPosition() const']]],
+  ['getrotation_14',['getRotation',['../classTransform.html#a73ffa42f51bfd23501260f92a4635e4b',1,'Transform::getRotation()'],['../classTransform.html#a10b87992f042eae734907ed9f3a15925',1,'Transform::getRotation() const']]],
+  ['getscore_15',['getScore',['../classIGameModule.html#abbb5e75624726f224dfe09fe502d2734',1,'IGameModule']]],
+  ['getsize_16',['getSize',['../classWindowResizeEvent.html#a84f9889dccb1af59d41d7f60934d85fa',1,'WindowResizeEvent::getSize()'],['../classTransform.html#a5c68aa5aad3f64bec19b45f61161106c',1,'Transform::getSize()'],['../classTransform.html#af4c835c4feeec6edd2d26113af2436ea',1,'Transform::getSize() const']]],
+  ['gettext_17',['getText',['../classText.html#aaa8251c6c432c4618aa69d19a5a25d00',1,'Text']]],
+  ['gettransform_18',['getTransform',['../classSprite.html#ab295b11fad46b0950b7cfb55c0782b64',1,'Sprite::getTransform()'],['../classSprite.html#a43a9245dd0d657a99bc6a273e42a36be',1,'Sprite::getTransform() const'],['../classText.html#a773429327339b91b5f44f8a75d4881cc',1,'Text::getTransform()'],['../classText.html#a8fa774aacf2b1660eb737e5ff54bea34',1,'Text::getTransform() const'],['../classRectangle.html#ad66333172303005bde9717a8f2f39553',1,'Rectangle::getTransform()'],['../classRectangle.html#a428f041032bfa2576f96540867d9ff2d',1,'Rectangle::getTransform() const']]],
+  ['getversion_19',['getVersion',['../classPlugin.html#a47c03da72689a1bc86cb98ca21881b88',1,'Plugin']]],
+  ['getx_20',['getX',['../classPosition.html#a10a2a09ec64310f42138f98238ec5fbd',1,'Position']]],
+  ['gety_21',['getY',['../classPosition.html#a83ae4a9db1a4f29e5a43e5592b65f095',1,'Position']]]
+];

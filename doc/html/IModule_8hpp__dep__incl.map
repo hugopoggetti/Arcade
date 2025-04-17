@@ -1,0 +1,18 @@
+<map id="src/api/IModule.hpp" name="src/api/IModule.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,141,30"/>
+<area shape="rect" id="Node000002" href="$IDisplayModule_8hpp.html" title=" " alt="" coords="38,296,217,321"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,45,48,86,34,138,32,194,36,221,46,247,56,262,70,274,100,293,98,298,67,279,52,265,41,249,31,222,26,194,29,137,42,84,58,43"/>
+<area shape="rect" id="Node000004" href="$IGameModule_8hpp.html" title=" " alt="" coords="69,78,240,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="100,38,143,76,139,80,96,42"/>
+<area shape="rect" id="Node000003" href="$EventManager_8hpp.html" title=" " alt="" coords="97,369,284,393"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,331,182,367,178,370,146,334"/>
+<area shape="rect" id="Node000005" href="$GUI_8hpp.html" title=" " alt="" coords="226,223,339,248"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,107,236,124,263,149,274,168,280,188,285,222,280,223,275,189,269,170,259,152,233,129,203,111"/>
+<area shape="rect" id="Node000006" href="$Events_8hpp.html" title=" " alt="" coords="56,223,199,248"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="123,114,104,131,90,152,88,171,94,189,118,221,113,225,89,192,82,171,85,150,100,127,119,110"/>
+<area shape="rect" id="Node000007" href="$Listener_8hpp.html" title=" " alt="" coords="100,151,249,175"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="164,117,174,150,169,151,159,118"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="269,263,231,322,200,370,196,367,227,319,265,260"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="130,264,130,296,125,296,125,264"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="160,190,137,224,133,222,156,187"/>
+</map>
