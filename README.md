@@ -18,7 +18,7 @@ Extendability: Implement new games and graphical interfaces via dynamic librarie
 
 ## 📚 Documentation
 
-[Open the Documentation](doc/html/index.html)
+[Open the Documentation](https://hugopoggetti.github.io/Arcade/doc/html/index.html)
 
 ## 🎮 Controls
 
@@ -47,15 +47,6 @@ A preview of the user interface:
 *Snake*
 
 *Example of a launched game using a selected graphic interface*
-
-## 👥 Group
-
-**Leader:**  
-- guillaume1.blondel → guillaume1.blondel@epitech.eu  
-
-**Members:**  
-- aurelien.peres → aurelien.peres@epitech.eu  
-- hugo.poggetti → hugo.poggetti@epitech.eu  
 
 ## 🛠️ Installation & Usage
 
